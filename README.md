@@ -1,4 +1,4 @@
-# video-player
+# vue-text
 
 ## Project setup
 ```
