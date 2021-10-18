@@ -15,10 +15,6 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+### 注意事项
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+**转码的视频流一定要看ts编码，否则会出现黑屏的情况**
